@@ -42,7 +42,7 @@ RedHunt OS aims to be a one stop shop for all your threat emulation and threat h
 ## VM Download Link: 
 * Release v2: http://bit.ly/RedHunt-OS-v2. All feedback is welcome.
 
-*Changelog*
+*Changelog:*
 * System Updates
 * Tool Updates
 * New Categories added: Reporting
